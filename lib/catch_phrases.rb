@@ -1,5 +1,5 @@
 def mario
-phrase "It's-a me, Mario!"
+phrase "Its-a me, Mario!"
   puts phrase
 end
 
