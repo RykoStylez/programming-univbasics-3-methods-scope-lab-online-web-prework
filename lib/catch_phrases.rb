@@ -9,4 +9,9 @@ def toadstool
 end
 
 def link
-  dadadada = 
+  dadadada = "It's Dangerous To Go Alone! Take This."
+  puts dadadada
+end
+
+def any_phrase
+  peppy = 
