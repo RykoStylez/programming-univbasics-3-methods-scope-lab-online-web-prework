@@ -1,10 +1,10 @@
 def mario
-phrase = "Thank You Mario!"
+phrase "It's-a me, Mario!"
   puts phrase
 end
 
 def toadstool
-  status = "But Our Princess Is In Another Castle!"
+  status = "Thank You Mario! But Our Princess Is In Another Castle!"
   puts status
 end
 
